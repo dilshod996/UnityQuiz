@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 91fb29f64e92eb541bb24cb4913e33aa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PUNK
+  fontNames:
+  - PUNK
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5c1aa1a46edc74b418ff1350040d8dce, type: 3}
+  - {fileID: 12800000, guid: 4353f97856b3a5b4b87505835215032b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
